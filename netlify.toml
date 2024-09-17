@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/go"
+  to = "https://www.google.com"
+  status = 200
+  force = true
